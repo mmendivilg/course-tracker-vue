@@ -1,0 +1,145 @@
+{
+  "welcome": "Welcome to Course Tracker system.",
+  "dashboard": "Dashboard",
+  "import": "Import",
+  "no-results-matching-error": "No results matching \"<strong>{search}</strong>\". Press <kbd>enter</kbd> to create a new one.",
+  "there-was-an-error": "There was an error.",
+  "please-stand-by": "Please stand by",
+  "search": "Search",
+  "logo": "Logo",
+  "test": "Test",
+  "actions": "Actions",
+  "new-item": "New Item",
+  "create-new": "Create New",
+  "cancel": "Cancel",
+  "close": "Close",
+  "status": "Status",
+  "loading-text": "Loading... Please wait",
+  "request-error": "There was an error trying to process your request.",
+  "settings": "Settings",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "confirm-delete-logo": "Are you sure?",
+  "delete-item": "Remove item",
+  "data-table": {
+    "confirm-delete": "Are you sure you want to remove this item? | Are you sure you want to remove this items?",
+    "footer": {
+      "rows-per-page": "Rows per page",
+      "all": "All",
+      "page-text": "{0}-{1} of {2}"
+    }
+  },
+  "edit": "Edit",
+  "save": "Save",
+  "remove": "Remove",
+  "ok": "Ok",
+  "fields": {
+    "email": "Email",
+    "password": "Password",
+    "capacitadores": {
+      "title": "Title",
+      "name": "Name",
+      "last-name": "Last Name",
+      "stps-registry": "STPS Registry"
+    },
+    "cursos": {
+      "name": "Name"
+    },
+    "duraciones": {
+      "name": "Name",
+      "hours": "Hours",
+      "labels": {
+        "name": "Name (E.G. 2.5 Horas. Matutino (11:00 a 13:30 hrs) y Vespertino (14:00 a 16:30))",
+        "hours": "Hours (E.G.: 2.5)"
+      }
+    },
+    "clientes-empresas": {
+      "name": "Name",
+      "rfc": "RFC",
+      "imss-registry": "IMSS Registry",
+      "contact": "Contact",
+      "logo": "@:logo",
+      "logo-click": "Logo - click here to upload a file",
+      "activities": "Activities / Line of business",
+      "street" : "Street",
+      "number" : "Number",
+      "zip-code" : "Postal Code",
+      "city" : "City",
+      "state" : "State",
+      "country" : "Country"
+    },
+    "capacitaciones": {
+      "date": "Date",
+      "trainers": "Trainers",
+      "training_type": "Training Type",
+      "duration": "Duration",
+      "client": "Client",
+      "dc-3": {
+        "date-range": "Date Range"
+      },
+      "certificate": {
+        "date": "Date",
+        "trainer": "Trainer"
+      }
+    },
+    "trabajadores": {
+      "name": "Name",
+      "last-name": "Last Name",
+      "course": "Course",
+      "rfc": "RFC",
+      "worker-number": {
+        "short": "Number",
+        "full": "Worker number"
+      },
+      "right-guesses": "Right Guesses",
+      "questions": "Questions",
+      "observations": {
+        "short": "Obs",
+        "full": "Observations"
+      },
+      "position": "Position",
+      "department": "Department",
+      "occupation-sub-area": "Area"
+    }
+  },
+  "components": {
+    "login": {
+      "login": "Login",
+      "email": "Email",
+      "password": "Password"
+    },
+    "appbar": {
+      "login": "@:components.login.login",
+      "locale-changer": {
+        "languages": "LANGUAGES",
+        "en": "English",
+        "es": "Spanish"
+      },
+      "user-menu": {
+        "my-account": "My Account",
+        "logout": "Logout"
+      }
+    },
+    "capacitaciones": {
+      "generate-report": "Generate report",
+      "generate-certificates": "Generate certificates",
+      "generate-dc-3": "Generate DC3",
+      "dc3-enter-info": "Please fill the information for each course({0}). Then click Ok.",
+      "grupos": {
+        "new-group": "Create Group",
+        "new-worker": "Create Worker",
+        "missing-information": "Missing information",
+        "import": {
+          "workers-imported-created": "No items were created. | {n} item was created. | {n} items were created.",
+          "update-workers-bulk": "Update workers in bulk",
+          "download-xlsx-file": "Download XLSX file.",
+          "download-xlsx-template": "Download XLSX blank template",
+          "add-information-about-workers-xlsx": "Add or update information about workers in the XLSX template.",
+          "upload-xlsx-file": "Upload the XLSX file.",
+          "attach-xlsx-file": "Attach XLSX file."
+        }
+      }
+    }
+  }
+}

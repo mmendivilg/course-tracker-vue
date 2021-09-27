@@ -1,0 +1,6 @@
+export const Action = {
+    CAPACITADORES_EDIT_DIALOG: "CAPACITADORES_EDIT_DIALOG",
+};
+export const Mutation = {
+    CAPACITADORES_EDIT_DIALOG: "CAPACITADORES_EDIT_DIALOG",
+};

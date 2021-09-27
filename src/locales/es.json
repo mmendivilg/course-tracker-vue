@@ -1,0 +1,145 @@
+{
+  "welcome": "Bienvenidos a Course Tracker.",
+  "dashboard": "Tablero",
+  "import": "Importar",
+  "no-results-matching-error": "Sin resultados para \"<strong>{search}</strong>\". Presiona <kbd>enter</kbd> para crear uno nuevo.",
+  "there-was-an-error": "Hubo un error.",
+  "please-stand-by": "Por favor espere",
+  "search": "Busqueda",
+  "logo": "Logotipo",
+  "test": "Prueba",
+  "actions": "Acciones",
+  "new-item": "Nuevo",
+  "create-new": "Crear Nuevo",
+  "cancel": "Cancelar",
+  "close": "Cerrar",
+  "status": "Estado",
+  "loading-text": "Cargando... Por favor espere",
+  "request-error": "Error al procesar su solicitud.",
+  "settings": "Configuración",
+  "theme": "Tema",
+  "light": "Claro",
+  "dark": "Oscuro",
+  "confirm-delete-logo": "¿Desea remover esta imagen?",
+  "delete-item": "Remover elemento",
+  "data-table": {
+    "confirm-delete": "¿Desea remover este elemento? | ¿Desea remover estos elementos?",
+    "footer": {
+      "rows-per-page": "Resultados por página",
+      "all": "Todos",
+      "page-text": "{0}-{1} de {2}"
+    }
+  },
+  "edit": "Editar",
+  "save": "Guardar",
+  "remove": "Remover",
+  "ok": "Ok",
+  "fields": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "capacitadores": {
+      "title": "Titulo",
+      "name": "Nombres",
+      "last-name": "Apellidos",
+      "stps-registry": "Registro STPS"
+    },
+    "cursos": {
+      "name": "Nombre"
+    },
+    "duraciones": {
+      "name": "Nombre",
+      "hours": "Horas",
+      "labels": {
+        "name": "Nombre (Ej. 2.5 Horas. Matutino (11:00 a 13:30 hrs) y Vespertino (14:00 a 16:30))",
+        "hours": "Horas (Ej.: 2.5)"
+      }
+    },
+    "clientes-empresas": {
+      "name": "Nombre",
+      "rfc": "RFC",
+      "imss-registry": "Registro I.M.S.S.",
+      "contact": "Contacto",
+      "logo": "@:logo",
+      "logo-click": "Logotipo - click aquí para subir archivo",
+      "activities": "Actividad o giro principal",
+      "street": "Calle",
+      "number": "Numero",
+      "zip-code": "C.P.",
+      "city": "Ciudad",
+      "state": "Estado",
+      "country": "País"
+    },
+    "capacitaciones": {
+      "date": "Fecha",
+      "trainers": "Capacitadores",
+      "training_type": "Tipo de Capacitación",
+      "duration": "Duración",
+      "client": "Cliente",
+      "dc-3": {
+        "date-range": "Rango de fechas"
+      },
+      "certificate": {
+        "date": "Fecha",
+        "trainer": "Capacitador"
+      }
+    },
+    "trabajadores": {
+      "name": "Nombre",
+      "last-name": "Apellidos",
+      "course": "Curso",
+      "rfc": "RFC",
+      "worker-number": {
+        "short": "Número",
+        "full": "Número de colaborador"
+      },
+      "right-guesses": "Aciertos",
+      "questions": "Preguntas",
+      "observations": {
+        "short": "Obs",
+        "full": "Observaciones"
+      },
+      "position": "Posición",
+      "department": "Deparatamento",
+      "occupation-sub-area": "Area"
+    }
+  },
+  "components": {
+    "login": {
+      "login": "Ingresar",
+      "email": "Correo electrónico",
+      "password": "Contraseña"
+    },
+    "appbar": {
+      "login": "@:components.login.login",
+      "locale-changer": {
+        "languages": "IDIOMAS",
+        "en": "Inglés",
+        "es": "Español"
+      },
+      "user-menu": {
+        "my-account": "Mi Cuenta",
+        "logout": "Salir"
+      }
+    },
+    "capacitaciones": {
+      "generate-report": "Generar reporte",
+      "generate-certificates": "Generar certificados",
+      "generate-dc-3": "Generar DC3",
+      "dc3-enter-info": "Por favor indique la información solicitada para cada curso({0}). Y de clic en Ok.",
+      "grupos": {
+        "new-group": "Nuevo Grupo",
+        "new-worker": "Nuevo Trabajador",
+        "missing-information": "Información incompleta",
+        "import": {
+          "workers-imported-created": "Ningún registro fue creado. | {n} registro fue creado. | Se crearon {n} registros.",
+          "update-workers-bulk": "Actualizar colaboradores en bloque",
+          "download-xlsx-file": "Descarga el archivo XLSX.",
+          "download-xlsx-template": "Descargar plantilla XLSX en blanco",
+          "add-information-about-workers-xlsx": "Añade o edita información sobre los colaboradores en la plantilla XLSX.",
+          "upload-xlsx-file": "Sube el archivo XLSX.",
+          "attach-xlsx-file": "Adjuntar archivo XLSX"
+        }
+      }
+    }
+  }
+}

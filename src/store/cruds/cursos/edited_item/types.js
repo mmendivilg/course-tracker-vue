@@ -1,0 +1,8 @@
+export const Action = {
+    CURSOS_EDITED_ITEM: "CURSOS_EDITED_ITEM",
+    CURSOS_IS_NEW_ITEM: "CURSOS_IS_NEW_ITEM",
+};
+export const Mutation = {
+    CURSOS_EDITED_ITEM: "CURSOS_EDITED_ITEM",
+    CURSOS_IS_NEW_ITEM: "CURSOS_IS_NEW_ITEM",
+};

@@ -1,0 +1,8 @@
+export const Action = {
+    DEPARTAMENTOS: "DEPARTAMENTOS",    
+    DEPARTAMENTOS_TAG: "DEPARTAMENTOS_TAG",
+};
+export const Mutation = {
+    DEPARTAMENTOS: "DEPARTAMENTOS",    
+    DEPARTAMENTOS_TAG: "DEPARTAMENTOS_TAG",
+};

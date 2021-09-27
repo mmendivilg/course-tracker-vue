@@ -1,0 +1,6 @@
+export const Action = {
+    DURACIONES_EDIT_DIALOG: "DURACIONES_EDIT_DIALOG",
+};
+export const Mutation = {
+    DURACIONES_EDIT_DIALOG: "DURACIONES_EDIT_DIALOG",
+};

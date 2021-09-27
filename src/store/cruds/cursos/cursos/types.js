@@ -1,0 +1,14 @@
+export const Action = {
+    CURSOS: "CURSOS",
+    CURSOS_ACT: "CURSOS_ACT",
+    CURSOS_NEW: "CURSOS_NEW",
+    CURSOS_DELETE: "CURSOS_DELETE",
+    CURSOS_TAG: "CURSOS_TAG",
+};
+export const Mutation = {
+    CURSOS: "CURSOS",
+    CURSOS_ACT: "CURSOS_ACT",
+    CURSOS_NEW: "CURSOS_NEW",
+    CURSOS_DELETE: "CURSOS_DELETE",
+    CURSOS_TAG: "CURSOS_TAG",
+};
