@@ -16,7 +16,7 @@
         </v-list-item-icon>
 
         <v-list-item-content>
-          <v-list-item-title>Capacitaciones</v-list-item-title>
+          <v-list-item-title>{{ $t('components.navigation-drawer.user-menu.trainings') }}</v-list-item-title>
         </v-list-item-content>
       </v-list-item>
       <v-list-item
@@ -29,7 +29,7 @@
         </v-list-item-icon>
 
         <v-list-item-content>
-          <v-list-item-title>Empresas</v-list-item-title>
+          <v-list-item-title>{{ $t('components.navigation-drawer.user-menu.companies') }}</v-list-item-title>
         </v-list-item-content>
       </v-list-item>
       <v-list-item
@@ -42,7 +42,7 @@
         </v-list-item-icon>
 
         <v-list-item-content>
-          <v-list-item-title>Cursos</v-list-item-title>
+          <v-list-item-title>{{ $t('components.navigation-drawer.user-menu.courses') }}</v-list-item-title>
         </v-list-item-content>
       </v-list-item>
       <v-list-item
@@ -55,7 +55,7 @@
         </v-list-item-icon>
 
         <v-list-item-content>
-          <v-list-item-title>Capacitadores</v-list-item-title>
+          <v-list-item-title>{{ $t('components.navigation-drawer.user-menu.trainers') }}</v-list-item-title>
         </v-list-item-content>
       </v-list-item>
       <v-list-item
@@ -68,7 +68,7 @@
         </v-list-item-icon>
 
         <v-list-item-content>
-          <v-list-item-title>Duraciones</v-list-item-title>
+          <v-list-item-title>{{ $t('components.navigation-drawer.user-menu.durations') }}</v-list-item-title>
         </v-list-item-content>
       </v-list-item>
     </v-list-item-group>

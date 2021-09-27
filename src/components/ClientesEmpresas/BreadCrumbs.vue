@@ -18,7 +18,7 @@ export default {
           }
         },
         {
-          text: 'Clientes',
+          text: this.$t('components.navigation-drawer.user-menu.companies'),
           disabled: true,
         }
       ]

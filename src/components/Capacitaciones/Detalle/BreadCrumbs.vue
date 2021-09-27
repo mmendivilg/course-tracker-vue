@@ -18,7 +18,7 @@ export default {
           }
         },
         {
-          text: 'Capacitaciones',
+          text: this.$t('components.navigation-drawer.user-menu.trainings'),
           exact: true,
           disabled: false,
           to: {

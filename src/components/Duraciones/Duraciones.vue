@@ -34,7 +34,7 @@
 
               <template v-slot:top>
               <v-toolbar dense flat color="transparent">
-                <v-toolbar-title>Duraciones</v-toolbar-title>
+                <v-toolbar-title>{{ $t('components.navigation-drawer.user-menu.durations') }}</v-toolbar-title>
                 <v-divider
                   class="mx-4"
                   inset

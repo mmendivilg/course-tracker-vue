@@ -34,7 +34,7 @@
             >
               <template v-slot:top>
                 <v-toolbar dense flat color="transparent">
-                  <v-toolbar-title>Capacitaciones</v-toolbar-title>
+                  <v-toolbar-title>{{ $t('components.navigation-drawer.user-menu.trainings') }}</v-toolbar-title>
                   <v-divider
                     class="mx-4"
                     inset

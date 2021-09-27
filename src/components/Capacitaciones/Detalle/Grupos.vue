@@ -31,7 +31,7 @@
         >
           <template v-slot:top>
             <v-toolbar dense flat color="transparent">
-              <v-toolbar-title class="pl-3">Grupos</v-toolbar-title>
+              <v-toolbar-title class="pl-3">{{ $t('components.capacitaciones.grupos.groups') }}</v-toolbar-title>
               <v-divider
                 class="mx-4"
                 inset

@@ -18,7 +18,7 @@ export default {
           }
         },
         {
-          text: 'Capacitadores',
+          text: this.$t('components.navigation-drawer.user-menu.trainers'),
           disabled: true,
         }
       ]

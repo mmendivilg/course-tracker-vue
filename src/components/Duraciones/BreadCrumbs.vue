@@ -18,7 +18,7 @@ export default {
           }
         },
         {
-          text: 'Duraciones',
+          text: this.$t('components.navigation-drawer.user-menu.durations'),
           disabled: true,
         }
       ]

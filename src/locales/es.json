@@ -121,12 +121,22 @@
         "logout": "Salir"
       }
     },
+    "navigation-drawer": {
+      "user-menu": {
+        "trainings": "Capacitaciones",
+        "companies": "Empresas",
+        "courses": "Cursos",
+        "trainers": "Capacitadores",
+        "durations": "Duraciones"
+      }
+    },
     "capacitaciones": {
       "generate-report": "Generar reporte",
       "generate-certificates": "Generar certificados",
       "generate-dc-3": "Generar DC3",
       "dc3-enter-info": "Por favor indique la información solicitada para cada curso({0}). Y de clic en Ok.",
       "grupos": {
+        "groups": "Grupos",
         "new-group": "Nuevo Grupo",
         "new-worker": "Nuevo Trabajador",
         "missing-information": "Información incompleta",
